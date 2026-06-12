@@ -45,7 +45,7 @@
 
 Software Engineer and AI/ML Engineer focused on building production-grade intelligent systems, scalable backend architectures, and enterprise software solutions.
 
-Currently pursuing a Bachelor's degree in Computer Science Engineering (Artificial Intelligence Specialization) at MLR Institute of Technology, Hyderabad, while actively building AI-powered products using Large Language Models, Retrieval-Augmented Generation (RAG), Vector Databases, Computer Vision, and Cloud-Native technologies.
+Currently pursuing a Bachelor's degree in Computer Science Engineering  at MLR Institute of Technology, Hyderabad, while actively building AI-powered products using Large Language Models, Retrieval-Augmented Generation (RAG), Vector Databases, Computer Vision, and Cloud-Native technologies.
 
 My engineering philosophy emphasizes:
 
