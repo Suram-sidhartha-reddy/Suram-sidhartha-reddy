@@ -15,11 +15,11 @@
 
 ![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-8A2BE2?style=for-the-badge)
 
-<a href="https://your-portfolio.com">
+<a href="https://suram-sidhartha-reddy.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/sidhartha-reddy-suram-760ba5283">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -27,15 +27,15 @@
 <img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github">
+<a href="https://github.com/Suram-sidhartha-reddy">
 <img src="https://img.shields.io/badge/GitHub-Profile-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=your-github&style=for-the-badge&color=8A2BE2)
-![](https://img.shields.io/github/followers/your-github?style=for-the-badge&color=6A5ACD)
-![](https://img.shields.io/github/stars/your-github?affiliations=OWNER&style=for-the-badge&color=4B0082)
+![](https://komarev.com/ghpvc/?username=Suram-sidhartha-reddy&style=for-the-badge&color=8A2BE2)
+![](https://img.shields.io/github/followers/Suram-sidhartha-reddy?style=for-the-badge&color=6A5ACD)
+![](https://img.shields.io/github/stars/Suram-sidhartha-reddy?affiliations=OWNER&style=for-the-badge&color=4B0082)
 
 </div>
 
@@ -227,17 +227,9 @@ Worked on AI-powered speech processing systems leveraging transformer-based arch
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=for-the-badge&logo=amazonaws)
 
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Certification%20In%20Progress-F80000?style=for-the-badge&logo=oracle)
-
 ## NPTEL
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-Certified-6A5ACD?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
 
 ---
 
@@ -245,7 +237,7 @@ Worked on AI-powered speech processing systems leveraging transformer-based arch
 
 <p align="center">
 
-<a href="https://leetcode.com/your-profile">
+<a href="https://leetcode.com/u/Suram-sidhartha-reddy/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -269,11 +261,11 @@ Worked on AI-powered speech processing systems leveraging transformer-based arch
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suram-sidhartha-reddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suram-sidhartha-reddy&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suram-sidhartha-reddy&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </div>
 
@@ -283,7 +275,7 @@ Worked on AI-powered speech processing systems leveraging transformer-based arch
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=algolia&no-frame=true&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Suram-sidhartha-reddy&theme=algolia&no-frame=true&column=7&margin-w=4"/>
 
 </div>
 
@@ -293,7 +285,7 @@ Worked on AI-powered speech processing systems leveraging transformer-based arch
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suram-sidhartha-reddy&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -303,7 +295,7 @@ Worked on AI-powered speech processing systems leveraging transformer-based arch
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github/your-github/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Suram-sidhartha-reddy/Suram-sidhartha-reddy/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -347,15 +339,15 @@ open_to:
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/sidhartha-reddy-suram-760ba5283">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github">
+<a href="https://github.com/Suram-sidhartha-reddy">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.com">
+<a href="https://suram-sidhartha-reddy.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
